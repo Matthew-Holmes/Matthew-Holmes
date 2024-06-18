@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Matthew-Holmes
-- 👀 I’m interested in mathematics, machine learning, computer graphics, scientific computing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on anything C++
+- 👀 I’m interested in mathematics, machine learning, high performance computing and software architecture
+- 🌱 I’m currently learning CUDA
 - 📫 How to reach me: matthew.holmes111@gmail.com
 
 <!---
