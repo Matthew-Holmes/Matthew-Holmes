@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matthew-Holmes
 - 👀 I’m interested in mathematics, machine learning, and software architecture
-- 🌱 I’m currently learning CUDA
+- 🌱 I’m currently learning ASP.NET
 - 📫 How to reach me: matthew.holmes111@gmail.com
 
 <!---
